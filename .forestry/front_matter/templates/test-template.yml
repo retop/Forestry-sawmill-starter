@@ -42,5 +42,6 @@ fields:
 - type: include
   label: Include Template
   name: include_template
+  template: test-partial
 pages:
 - content/tetetetest.md
