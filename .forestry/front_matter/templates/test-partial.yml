@@ -1,0 +1,12 @@
+---
+label: Test Partial
+hide_body: false
+is_partial: true
+fields:
+- type: field_group_list
+  label: Repeatable Field Group
+  name: repeatable_field_group
+  fields:
+  - type: blocks
+    label: Blocks
+    name: blocks
