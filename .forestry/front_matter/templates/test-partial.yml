@@ -11,3 +11,9 @@ fields:
   - type: blocks
     label: Blocks
     name: blocks
+    template_types:
+    - body-copy
+    - button
+    - media-feature
+    - call-to-action
+    - hero-section
