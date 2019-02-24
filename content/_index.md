@@ -44,5 +44,9 @@ button_text = "View on Github"
 button_url = "https://github.com/dwalkr/sawmill"
 heading = "Let's Get Started"
 template = "call-to-action"
+[[blocks]]
+list_element = "ulopü"
+select_icon = "/uploads/2018/04/20/logs-splash.png"
+template = "icon-list"
 
 +++
