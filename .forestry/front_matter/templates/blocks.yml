@@ -1,5 +1,5 @@
 ---
-label: Blocks Jan
+label: Blocks
 hide_body: false
 is_partial: false
 fields:
@@ -11,5 +11,5 @@ fields:
   - hero-section
   - call-to-action
   - media-feature
-  label: Blocks jan
+  label: Blocks
   name: blocks
