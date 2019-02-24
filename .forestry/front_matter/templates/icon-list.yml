@@ -1,0 +1,13 @@
+---
+label: Icon List
+hide_body: false
+is_partial: true
+fields:
+- type: file
+  name: select_icon
+  label: Select Icon
+  description: Upload an icon
+- type: text
+  name: list_element
+  label: List element
+  description: add a list element
