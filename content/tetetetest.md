@@ -10,7 +10,10 @@ textarea = "gfnfgnfgn"
 [field_group]
 blocks = []
 [[field_group.repeatable_field_group]]
+[[blocks]]
+list_element = "jada jada "
+select_icon = "/uploads/2018/04/20/logs-splash.png"
+template = "icon-list"
 [[repeatable_field_group]]
 
 +++
-xc cxc xc x cxc
