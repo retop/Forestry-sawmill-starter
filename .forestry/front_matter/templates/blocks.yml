@@ -1,0 +1,15 @@
+---
+label: Blocks
+hide_body: false
+is_partial: false
+fields:
+- type: blocks
+  template_types:
+  - icon-list
+  - button
+  - body-copy
+  - hero-section
+  - call-to-action
+  - media-feature
+  label: Blocks
+  name: blocks
